@@ -45,7 +45,7 @@ def show_spinner(angle, color, dark_color):
     w = 10
     lw = 60
 
-    # A little math for calculation the coordinates after rotation by some 'angle'
+    # A little math for calculation the coordinates after rotation by some  'angle'
     # x = originx + r*cos(angle)
     # y = originy + r*sin(angle)
     
